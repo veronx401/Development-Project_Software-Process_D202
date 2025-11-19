@@ -1,0 +1,14 @@
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\bin\Debug\net8.0\HelloCalcApp.exe
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\bin\Debug\net8.0\HelloCalcApp.deps.json
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\bin\Debug\net8.0\HelloCalcApp.runtimeconfig.json
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\bin\Debug\net8.0\HelloCalcApp.dll
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\bin\Debug\net8.0\HelloCalcApp.pdb
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.AssemblyInfoInputs.cache
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.AssemblyInfo.cs
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.dll
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\refint\HelloCalcApp.dll
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.pdb
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\HelloCalcApp.genruntimeconfig.cache
+C:\Users\itsve\source\repos\HelloCalc\HelloCalcApp\obj\Debug\net8.0\ref\HelloCalcApp.dll

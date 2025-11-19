@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsve\\source\\repos\\HelloCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}|HelloCalcApp\\HelloCalcApp.csproj|c:\\users\\itsve\\source\\repos\\hellocalc\\hellocalcapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}|HelloCalcApp\\HelloCalcApp.csproj|solutionrelative:hellocalcapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}|HelloCalcTests\\HelloCalcTests.csproj|c:\\users\\itsve\\source\\repos\\hellocalc\\hellocalctests\\calctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}|HelloCalcTests\\HelloCalcTests.csproj|solutionrelative:hellocalctests\\calctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 484,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\itsve\\source\\repos\\HelloCalc\\HelloCalcApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "HelloCalcApp\\Calculator.cs",
+              "ToolTip": "C:\\Users\\itsve\\source\\repos\\HelloCalc\\HelloCalcApp\\Calculator.cs",
+              "RelativeToolTip": "HelloCalcApp\\Calculator.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:05:59.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcTests.cs",
+              "DocumentMoniker": "C:\\Users\\itsve\\source\\repos\\HelloCalc\\HelloCalcTests\\CalcTests.cs",
+              "RelativeDocumentMoniker": "HelloCalcTests\\CalcTests.cs",
+              "ToolTip": "C:\\Users\\itsve\\source\\repos\\HelloCalc\\HelloCalcTests\\CalcTests.cs",
+              "RelativeToolTip": "HelloCalcTests\\CalcTests.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:03:14.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

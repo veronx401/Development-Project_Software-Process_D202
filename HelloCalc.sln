@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCalcApp", "HelloCalcApp\HelloCalcApp.csproj", "{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCalcTests", "HelloCalcTests\HelloCalcTests.csproj", "{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CF76C9-D0B8-48F7-8CB2-9D5EAA90B6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C140DEA5-9CA4-4D53-BB89-9A470C50ABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A304A4BD-D45D-4BC2-80A5-0BA3D42A9255}
+	EndGlobalSection
+EndGlobal
